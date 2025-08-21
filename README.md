@@ -1,0 +1,1 @@
+The project aims to build a predictive model that estimates the selling price of used cars based on various features such as brand, year of manufacture, mileage, fuel type, transmission, engine size, and other attributes.
